@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Writing Brainstorming
-====================================================
 
 To effectively use AI in writing brainstorming, it is essential to have a clear understanding of what it is and how it works. In this chapter, we will explore the historical development of AI in writing brainstorming, the different types of AI used, and how it works.
 

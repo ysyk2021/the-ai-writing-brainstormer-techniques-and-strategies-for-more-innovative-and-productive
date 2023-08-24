@@ -1,5 +1,3 @@
-Why Using AI for Brainstorming in Writing is Important
-===============================================================================
 
 In recent years, AI technology has made significant advancements, providing writers with powerful tools to enhance their writing process. One of the most significant areas where AI can be applied is in writing brainstorming. In this chapter, we will explore why using AI for brainstorming in writing is important.
 

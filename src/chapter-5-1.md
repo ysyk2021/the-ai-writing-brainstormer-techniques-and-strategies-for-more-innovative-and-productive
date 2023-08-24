@@ -1,5 +1,3 @@
-Idea generation and organization
-========================================================================================
 
 One of the most significant applications of AI in writing brainstorming is idea generation and organization. As AI technology continues to advance, it is becoming increasingly sophisticated at generating new ideas and organizing them into coherent structures. In this chapter, we will explore some of the most popular AI-powered tools for idea generation and organization.
 

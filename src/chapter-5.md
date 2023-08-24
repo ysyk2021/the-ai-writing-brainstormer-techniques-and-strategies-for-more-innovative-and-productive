@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Writing Brainstorming
-======================================================
 
 AI technology has a wide range of applications in writing brainstorming, from generating ideas to editing and collaboration. In this chapter, we will explore the different ways in which AI can be used to enhance the writing brainstorming process.
 

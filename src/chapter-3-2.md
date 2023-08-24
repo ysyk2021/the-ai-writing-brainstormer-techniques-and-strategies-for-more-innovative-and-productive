@@ -1,5 +1,3 @@
-Improved efficiency and productivity
-========================================================================================
 
 AI technology has the potential to significantly improve the efficiency and productivity of writing brainstorming. In this chapter, we will explore some of the ways in which AI can enhance the writing brainstorming process.
 

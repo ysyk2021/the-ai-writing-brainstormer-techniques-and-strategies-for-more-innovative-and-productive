@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Writing Brainstorming
-===============================================
 
 Effective management of AI-powered tools is essential for their successful use in writing brainstorming. In this chapter, we will explore some best practices for managing AI in writing brainstorming.
 

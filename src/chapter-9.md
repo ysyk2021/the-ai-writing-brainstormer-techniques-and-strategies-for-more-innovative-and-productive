@@ -1,5 +1,3 @@
-Chapter 9: Conclusion
-=====================
 
 The AI Writing Brainstormer: Techniques and Strategies for More Innovative and Productive Writing Outcomes provides a comprehensive guide to using AI-powered tools in writing brainstorming. In this chapter, we will summarize the key takeaways from the book.
 

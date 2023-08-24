@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI in Writing Brainstorming
-====================================================
 
 While AI technology has the potential to revolutionize writing brainstorming, it also presents significant challenges. In this chapter, we will explore some of the risks associated with the use of AI in writing brainstorming and how writers can mitigate these risks.
 

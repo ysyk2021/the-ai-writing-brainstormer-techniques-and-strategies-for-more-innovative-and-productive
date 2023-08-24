@@ -1,5 +1,3 @@
-Historical Overview of AI in Writing Brainstorming
-========================================================================================================
 
 AI technology has been used in various forms for decades, and its application in writing brainstorming is no exception. In this chapter, we will explore the historical development of AI in writing brainstorming.
 

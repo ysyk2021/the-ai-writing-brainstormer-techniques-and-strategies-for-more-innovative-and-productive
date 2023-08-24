@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Writing Brainstorming
-================================================
 
 As AI technology continues to evolve, the role it plays in writing brainstorming is also changing. In this chapter, we will explore the emerging trends in AI for writing brainstorming, potential challenges and opportunities, and how writers can prepare for the future.
 

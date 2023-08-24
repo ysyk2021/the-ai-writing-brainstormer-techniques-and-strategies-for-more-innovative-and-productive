@@ -1,5 +1,3 @@
-Addressing Potential Bias
-==========================================================================
 
 One of the ethical considerations when using AI-powered tools in writing brainstorming is addressing potential bias. In this chapter, we will explore how organizations can address potential bias when using AI-powered tools in writing brainstorming.
 

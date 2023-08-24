@@ -1,5 +1,3 @@
-Developing an AI Strategy
-==============================================================================
 
 Before implementing AI in writing brainstorming, it is essential to develop a comprehensive AI strategy. In this chapter, we will explore the steps involved in developing an AI strategy.
 

@@ -1,5 +1,3 @@
-Emerging trends
-=================================================================
 
 As AI technology advances, the role it plays in writing brainstorming is also evolving. In this chapter, we will explore emerging trends in AI for writing brainstorming and how they may impact the future of writing.
 

@@ -1,5 +1,3 @@
-Collaborative Writing and Editing
-=========================================================================================
 
 Collaborative writing and editing can be a challenging process, especially when working with a large team. However, AI-powered tools can facilitate collaboration and improve the efficiency and effectiveness of the writing and editing process. In this chapter, we will explore some applications of AI in collaborative writing and editing.
 

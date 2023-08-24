@@ -1,5 +1,3 @@
-Enhanced creativity and innovation
-======================================================================================
 
 AI technology can significantly enhance the creativity and innovation of writing brainstorming. In this chapter, we will explore some of the ways in which AI can help writers generate new and innovative ideas.
 

@@ -1,5 +1,3 @@
-Visual Aids and Inspiration
-===================================================================================
 
 Visual aids and inspiration can be powerful tools for generating new ideas and enhancing creativity in writing brainstorming. In this chapter, we will explore some applications of AI in providing visual aids and inspiration during the writing process.
 

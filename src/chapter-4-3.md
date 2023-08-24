@@ -1,5 +1,3 @@
-Privacy and security concerns
-===================================================================================
 
 While AI technology has the potential to revolutionize writing brainstorming, it also presents significant challenges around privacy and security. In this chapter, we will explore some of the risks associated with the use of AI in writing brainstorming and how writers can mitigate these risks.
 

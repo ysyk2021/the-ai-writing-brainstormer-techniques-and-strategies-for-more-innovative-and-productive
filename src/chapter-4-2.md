@@ -1,5 +1,3 @@
-Legal considerations
-==========================================================================
 
 While AI technology has the potential to revolutionize writing brainstorming, it also presents significant legal challenges. In this chapter, we will explore some of the legal risks associated with the use of AI in writing brainstorming and how writers can navigate these risks.
 

@@ -1,5 +1,3 @@
-How AI works in writing brainstorming
-===========================================================================================
 
 AI technology is becoming increasingly common in writing brainstorming. In this chapter, we will explore how AI works in writing brainstorming and the ways in which it can be used to enhance the efficiency and productivity of the writing process.
 

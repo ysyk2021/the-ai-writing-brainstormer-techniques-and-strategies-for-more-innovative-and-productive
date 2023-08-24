@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI in Writing Brainstorming
-===================================================
 
 Implementing AI in writing brainstorming can be a significant change for writers and organizations. In this chapter, we will explore the steps involved in implementing AI in writing brainstorming, including developing an AI strategy, overcoming resistance to change, and best practices for implementation.
 

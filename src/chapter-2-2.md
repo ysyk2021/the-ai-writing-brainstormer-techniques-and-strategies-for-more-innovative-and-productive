@@ -1,5 +1,3 @@
-Types of AI in writing brainstorming
-==========================================================================================
 
 There are several different types of AI used in writing brainstorming, each with its own strengths and weaknesses. In this chapter, we will explore the different types of AI used in writing brainstorming.
 
