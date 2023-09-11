@@ -1,5 +1,4 @@
-Chapter 4: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential challenges and opportunities that arise when using AI in the writing process. As AI technology continues to advance, it has the potential to revolutionize the way we approach writing, but it also presents unique challenges that writers must navigate.
 

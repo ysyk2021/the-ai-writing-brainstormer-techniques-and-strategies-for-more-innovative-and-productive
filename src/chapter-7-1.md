@@ -1,5 +1,4 @@
-Chapter 4: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial aspects of data management within the context of AI-powered writing tools. Effective data management is fundamental for achieving more innovative and productive writing outcomes while ensuring data accuracy, availability, and integrity.
 

@@ -1,5 +1,4 @@
-Chapter 6: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical topics of privacy and security concerns in the context of AI-powered writing tools. As the use of AI in writing becomes more prevalent, it is essential to address the potential risks and safeguards to ensure responsible and secure use.
 

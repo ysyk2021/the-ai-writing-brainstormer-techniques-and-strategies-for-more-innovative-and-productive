@@ -1,5 +1,4 @@
-Chapter 9: Preparing for the Future
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of preparing for the future of AI-powered writing. As technology evolves and new opportunities and challenges emerge, staying ahead of the curve is essential for achieving continued innovation and productivity in your writing endeavors.
 

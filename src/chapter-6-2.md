@@ -1,5 +1,4 @@
-Chapter 5: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical topic of overcoming resistance to change when implementing AI-driven writing technologies. Change is often met with skepticism and apprehension, but by addressing resistance proactively, writers and organizations can unlock the full potential of AI in their writing processes.
 

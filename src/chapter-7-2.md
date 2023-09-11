@@ -1,5 +1,4 @@
-Chapter 17: Ensuring Transparency and Accountability
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the vital aspects of ensuring transparency and accountability when utilizing AI in the writing brainstorming process. As AI becomes an integral part of the creative workflow, it is crucial to maintain transparency in AI operations and uphold accountability for responsible usage.
 

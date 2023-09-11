@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the best practices for implementing AI-powered writing techniques and strategies to achieve more innovative and productive writing outcomes. Effective implementation is key to realizing the full potential of AI in the writing process.
 

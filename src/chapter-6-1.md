@@ -1,5 +1,4 @@
-Chapter 8: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential steps in developing a comprehensive AI strategy for achieving innovative and productive writing outcomes. A well-defined AI strategy is the foundation for successful integration of artificial intelligence into your writing processes.
 

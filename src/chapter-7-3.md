@@ -1,5 +1,4 @@
-Chapter 18: Addressing Potential Bias
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical topic of addressing potential bias when using AI in the writing brainstorming process. Bias in AI can impact the quality, fairness, and inclusivity of content, making it imperative to proactively identify and mitigate bias to achieve more innovative and equitable writing outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 21: Improved Efficiency and Productivity
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques and strategies to enhance efficiency and productivity when utilizing AI in the writing brainstorming process. Streamlining your writing workflow can lead to more innovative and productive writing outcomes.
 

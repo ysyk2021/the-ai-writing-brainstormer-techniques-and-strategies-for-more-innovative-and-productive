@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial ethical considerations that writers and organizations must address when harnessing the power of AI in the writing process. Ethical awareness is fundamental to ensure that AI-driven writing remains responsible, fair, and aligned with ethical standards.
 

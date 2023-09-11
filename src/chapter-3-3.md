@@ -1,5 +1,4 @@
-Chapter 20: Increased Engagement and Persuasion
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the techniques and strategies to enhance engagement and persuasion in writing using AI. Captivating your audience and persuading them effectively are key objectives for achieving more innovative and productive writing outcomes.
 

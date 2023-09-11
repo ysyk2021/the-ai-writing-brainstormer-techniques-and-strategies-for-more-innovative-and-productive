@@ -1,5 +1,4 @@
-Chapter 15: Data Management
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspects of data management when using AI in writing brainstorming. Effective data management is essential for optimizing the performance and outcomes of AI-driven writing processes.
 
@@ -48,8 +47,7 @@ Continuous Monitoring
 
 * *Data Management Consideration*: Continuously monitor data quality and performance to identify and address issues promptly, ensuring optimal AI-driven brainstorming outcomes.
 
-Chapter 16: Visual Aids and Inspiration
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the use of visual aids and inspiration sources to enhance the creative process when utilizing AI in writing brainstorming.
 

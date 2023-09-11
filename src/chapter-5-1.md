@@ -1,5 +1,4 @@
-Chapter 19: Idea Generation and Organization
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental techniques and strategies for idea generation and organization when using AI in the writing brainstorming process. Effective idea generation and organization are crucial for achieving more innovative and productive writing outcomes.
 

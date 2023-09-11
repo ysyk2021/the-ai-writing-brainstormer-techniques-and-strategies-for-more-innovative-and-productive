@@ -1,5 +1,4 @@
-Chapter 11: Historical Overview of AI in Writing Brainstorming
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will take a journey through the history of AI's involvement in writing brainstorming. Understanding the evolution of AI in this context will provide valuable insights into its current capabilities and potential for enhancing the creative process.
 
